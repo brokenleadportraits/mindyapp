@@ -1,0 +1,36 @@
+footer {
+	padding: 30px;
+	background-color: yellow;
+	text-align: center;
+}
+
+body {
+	background-color: #ffffcc;
+}
+
+.navbar-brand img {
+	padding: 0px;
+	padding-bottom: 5px;
+	height: 30px;
+}
+
+.index-header h1{
+	font-size: 6em;
+	font-weight: 900;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 4px 4px 4px #aaa;
+	font-family: 'Lato', sans-serif;
+}
+
+.index-header h2 {
+	font-size: 3em;
+	font-weight: 100;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+#home-img {
+	width:80%;
+	margin: 0 auto;
+}
